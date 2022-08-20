@@ -1,6 +1,6 @@
 html, body {
     align-items: center;
-    background: #f2f4f8;
+    background: #020916;
     border: 0;
     display: flex;
     font-family: Helvetica, Arial, sans-serif;
@@ -12,7 +12,7 @@ html, body {
   }
   
   form {
-    --background: white;
+    --background: rgb(255, 255, 255);
     --border: rgba(0, 0, 0, 0.125);
     --borderDark: rgba(0, 0, 0, 0.25);
     --borderDarker: rgba(0, 0, 0, 0.5);
@@ -27,7 +27,7 @@ html, body {
     --shadeNormal: 0.5;
     --borderRadius: 0.125rem;
     --highlight: #306090;
-    background: white;
+    background: rgb(232, 255, 151);
     border: 1px solid var(--border);
     border-radius: var(--borderRadius);
     box-shadow: 0 1rem 1rem -0.75rem var(--border);
